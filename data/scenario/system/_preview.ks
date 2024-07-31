@@ -1,1 +1,8 @@
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_c34c282b-370d-4005-9519-5551187c21df.png"  ]
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_968d86bd-3125-4299-8105-a8f67b31414d.png"  ]
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_87016db3-de95-46de-9ff0-e8a5624b4af6.png"  ]
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_cbeca338-9fb6-4a5a-9398-5b35285fdad9.png"  ]
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_4caee3f8-e841-41d5-9c75-f3aba5f20a45.png"  ]
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_e056bdd2-22c2-4023-8159-374241d503f5.png"  ]
+[preload  storage="./data/bgimage/7/mementonuri._A_pixel_art_minimalist_background_for_a_game_set_i_bc04819f-e3b3-4bbc-8ce9-f400c3914281.png"  ]
 [return] 
